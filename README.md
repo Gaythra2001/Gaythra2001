@@ -15,9 +15,9 @@
 
 - 🤝 I’m Undergraduate at *SLIIT*
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChaminduWn](https://github.com/ChaminduWn)
+- 👨‍💻 All of my projects are available at [https://github.com/Gaythra2001](https://github.com/Gaythra2001)
 
-- 📫 How to reach me *chaminduwn@gmail.com*
+- 📫 How to reach me *sggmalshan2001@gmail.com*
 
 - ⚡ Fun fact *I am an Explorer*
 
