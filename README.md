@@ -69,7 +69,7 @@
 <br>
 
 <h3 align="left">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/Chamindu WN"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Chamindu WN" /></a></p><br><br> 
+<p align="center"><a href="https://www.buymeacoffee.com/Gayathra Malshan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Gaythra2001" /></a></p><br><br> 
 
 
 ----
@@ -78,14 +78,14 @@
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaminduWn&theme=algolia" alt="ChaminduWn"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaythra2001&theme=algolia" alt="Gaythra2001"  /></p>
 
 
 
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=ChaminduWn&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Gaythra2001&theme=juicyfresh&no-bg=true" />
 
 
 -----
