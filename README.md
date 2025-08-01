@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Malshan S G G </h1>
 <h3 align="center">Studing BSC(Hons) Information Technology at SLIIT</h3>
 
-<p align="center"> <a href="https://twitter.com/chamindu_wn" target="blank"><img src="https://img.shields.io/twitter/follow/chamindu_wn?logo=twitter&style=for-the-badge" alt="chamindu_wn" /></a> </p>
+<p align="center"> <a href="https://twitter.com/Gayathra Malshan" target="blank"><img src="https://img.shields.io/twitter/follow/Gayathra Malshan?logo=twitter&style=for-the-badge" alt="Gayathra Malshan" /></a> </p>
 <br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chamindu_wn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chamindu_wn" height="30" width="40" /></a>
-<a href="https://lk.linkedin.com/in/chamindu-wn-074815282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamindu wn" height="30" width="40" /></a>
-<a href="https://fb.com/chamindu wn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamindu wn" height="30" width="40" /></a>
-<a href="https://instagram.com/chamindu_wn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamindu_wn" height="30" width="40" /></a>
+<a href="https://twitter.com/Gayathra Malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gayathra Malshan" height="30" width="40" /></a>
+<a href="https://lk.linkedin.com/in/Gayathra Malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamindu wn" height="30" width="40" /></a>
+<a href="https://fb.com/Gayathra Malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Gayathra Malshan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gayya_vibe?igsh=ZGtpY2s3NWFrenNm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Gayathra Malshan" height="30" width="40" /></a>
 </p>
 
 
