@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Malshan S G G </h1>
 <h3 align="center">Studing BSC(Hons) Information Technology at SLIIT</h3>
 
-<p align="center"> <a href="https://twitter.com/Gayathra Malshan" target="blank"><img src="https://img.shields.io/twitter/follow/Gayathra Malshan?logo=twitter&style=for-the-badge" alt="Gayathra Malshan" /></a> </p>
+<p align="center"> <a href="https://www.instagram.com/gayya_vibe?igsh=ZGtpY2s3NWFrenNm" target="blank"><img src="https://img.shields.io/twitter/follow/Gayathra Malshan?logo=twitter&style=for-the-badge" alt="Gayathra Malshan" /></a> </p>
 <br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
