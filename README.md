@@ -78,7 +78,10 @@
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaythra2001&theme=algolia" alt="Gaythra2001"  /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaythra2001&theme=algolia" alt="Gaythra2001" />
+</p>
+
 
 
 
