@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Gayathra Malshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gayathra Malshan" height="30" width="40" /></a>
+<a href="https://x.com/GMalshan39724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gayathra Malshan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gayathra-malshan-911815276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gayathra Malshan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/gayathra.malshan.2025?mibextid=kFxxJD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Gayathra Malshan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gayya_vibe?igsh=ZGtpY2s3NWFrenNm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Gayathra Malshan" height="30" width="40" /></a>
