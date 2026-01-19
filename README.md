@@ -104,18 +104,6 @@
 
 ---
 
-## ☕ Support Me
-
-If you like my work or want to support my learning journey, you can buy me a coffee ☕
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Gaythra2001">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
-  </a>
-</p>
-
----
-
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
