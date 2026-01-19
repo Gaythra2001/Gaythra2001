@@ -1,94 +1,128 @@
 <p align="center">
-<picture> <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width = 100px></picture>
+  <picture>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width="100px"/>
+  </picture>
 </p>
 
-<h1 align="center">Hi 👋, I'm Malshan S G G </h1>
-<h3 align="center">Studing BSC(Hons) Information Technology at SLIIT</h3>
+<h1 align="center">Hi 👋, I'm Gayathra Malshan</h1>
+<h3 align="center">BSc (Hons) Information Technology Undergraduate at SLIIT</h3>
 
-<p align="center"> <a href="https://www.instagram.com/gayya_vibe?igsh=ZGtpY2s3NWFrenNm" target="blank"><img src="https://img.shields.io/twitter/follow/Gayathra Malshan?logo=twitter&style=for-the-badge" alt="Gayathra Malshan" /></a> </p>
-<br>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = 300px></picture>
-
-- 🌱 I’m currently learning *Angular js and .NET*
-
-- 🤝 I’m Undergraduate at *SLIIT*
-
-- 👨‍💻 All of my projects are available at [https://github.com/Gaythra2001](https://github.com/Gaythra2001)
-
-- 📫 How to reach me *sggmalshan2001@gmail.com*
-
-- ⚡ Fun fact *I am an Explorer*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/GMalshan39724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gayathra Malshan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gayathra-malshan-911815276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gayathra Malshan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/gayathra.malshan.2025?mibextid=kFxxJD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Gayathra Malshan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gayya_vibe?igsh=ZGtpY2s3NWFrenNm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Gayathra Malshan" height="30" width="40" /></a>
-</p>
-
-
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
-
-![java](https://img.shields.io/badge/java-3c7fb8?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![php](https://img.shields.io/badge/php-2f6492?style=for-the-badge&logo=php&logoColor=white)
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg?style=for-the-badge)
-![w3school.com](https://img.shields.io/badge/w3school.com-37ab6c?style=for-the-badge&logo=w3school.com&logoColor=green)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white)
-
-<br>
-
-<h3 align="left">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/Gayathra Malshan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Gaythra2001" /></a></p><br><br> 
-
-
-----
-<br>
-
-
-
-### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaythra2001&theme=algolia" alt="Gaythra2001" />
+  <a href="https://www.instagram.com/gaiya_vibe?igsh=ZGtpY2s3NWFrenNm" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram"/>
+  </a>
 </p>
 
+---
 
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"/></picture> About Me
 
+<picture>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300px"/>
+</picture>
 
-<hr>
+* 🌱 Currently learning **Angular & .NET**
+* 🎓 Undergraduate at **SLIIT**
+* 👨‍💻 All my projects: [github.com/Gaythra2001](https://github.com/Gaythra2001)
+* 📫 Email: **[sggmalshan2001@gmail.com](mailto:sggmalshan2001@gmail.com)**
+* ⚡ Fun fact: **I love exploring new technologies**
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Gaythra2001&theme=juicyfresh&no-bg=true" />
+---
 
+## 🌐 Connect With Me
 
------
+* 📸 **Instagram**: [https://www.instagram.com/gaiya_vibe?igsh=ZGtpY2s3NWFrenNm](https://www.instagram.com/gaiya_vibe?igsh=ZGtpY2s3NWFrenNm)
+* 📘 **Facebook**: [https://www.facebook.com/share/186XZ1Qjkp/](https://www.facebook.com/share/186XZ1Qjkp/)
+* 💼 **LinkedIn**: [https://www.linkedin.com/in/gayathra-malshan-911815276](https://www.linkedin.com/in/gayathra-malshan-911815276)
+
+<p align="left">
+  <a href="https://x.com/GMalshan39724" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gayathra-malshan-911815276/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/share/186XZ1Qjkp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/gaiya_vibe?igsh=ZGtpY2s3NWFrenNm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+## 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-3c7fb8?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-2f6492?style=for-the-badge\&logo=php\&logoColor=white)
+
+---
+
+## 🎨 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+---
+
+## 🛠️ Software & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg?style=for-the-badge)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge\&logo=adobe-lightroom\&logoColor=white)
+
+---
+
+## 🧰 IDEs
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## 🖥️ Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kali-linux)
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Gaythra2001">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
+  </a>
+</p>
+
+---
+
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaythra2001&theme=algolia"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaythra2001&theme=juicyfresh&no-bg=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30"/>
+  <br/>
+  <b>Thanks for visiting my profile!</b>
+</p>
