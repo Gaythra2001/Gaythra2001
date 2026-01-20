@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/github/followers/Gaythra2001?label=Followers&style=flat&color=0e75b6"/>
   </a>
 </p>
----
+
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"/></picture> About Me
 
