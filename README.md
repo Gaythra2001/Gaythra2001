@@ -17,6 +17,13 @@
   </a>
 </p>
 
+<!-- ADD HERE -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaythra2001&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <a href="https://github.com/Gaythra2001?tab=followers">
+    <img src="https://img.shields.io/github/followers/Gaythra2001?label=Followers&style=flat&color=0e75b6"/>
+  </a>
+</p>
 ---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"/></picture> About Me
@@ -125,3 +132,6 @@
   <br/>
   <b>Thanks for visiting my profile! 😊</b>
 </p>
+
+
+
